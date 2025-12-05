@@ -1,6 +1,7 @@
 # YouTube Trending Data Analysis
 
-![Uploading ChatGPT Image 5 Ara 2025 16_05_14.png…]()
+Youtube_Data_Project
+/Cover_picture.png
 
 
 ## Foundations of Computer Science — Final Project
