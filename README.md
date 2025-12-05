@@ -1,8 +1,8 @@
 # YouTube Trending Data Analysis
 
-Youtube_Data_Project
-/Cover_picture.png
-
+<p align="center">
+  <img src="Cover_picture.png" width="600" alt="Project Cover Image">
+</p>
 
 ## Foundations of Computer Science — Final Project
 ### University of Milano – Bicocca, MSc in Data Science
